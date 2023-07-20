@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan L. Hayes | Ding Research Group at the Tufts University</title>
+    <link>https://example.com/author/ryan-l.-hayes/</link>
+      <atom:link href="https://example.com/author/ryan-l.-hayes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan L. Hayes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jun 2021 13:16:05 -0500</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Ryan L. Hayes</title>
+      <link>https://example.com/author/ryan-l.-hayes/</link>
+    </image>
+    
+    <item>
+      <title>Generalizing the Discrete Gibbs Sampler-Based λ-Dynamics Approach for Multisite Sampling of Many Ligands</title>
+      <link>https://example.com/publication/d_gsld/</link>
+      <pubDate>Sat, 05 Jun 2021 13:16:05 -0500</pubDate>
+      <guid>https://example.com/publication/d_gsld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CDOCKER and λ-dynamics for Prospective Prediction in D3R Grand Challenge 2</title>
+      <link>https://example.com/publication/d3r/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/d3r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampler-based λ-dynamics and Rao–Blackwell Estimator for Alchemical Free Energy Calculation</title>
+      <link>https://example.com/publication/gsld/</link>
+      <pubDate>Fri, 26 May 2017 13:16:05 -0500</pubDate>
+      <guid>https://example.com/publication/gsld/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xingcheng Lin | Ding Research Group at the Tufts University</title>
+    <link>https://example.com/author/xingcheng-lin/</link>
+      <atom:link href="https://example.com/author/xingcheng-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xingcheng Lin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Xingcheng Lin</title>
+      <link>https://example.com/author/xingcheng-lin/</link>
+    </image>
+    
+    <item>
+      <title>Stability and folding pathways of tetra-nucleosome from six-dimensional free energy surface</title>
+      <link>https://example.com/publication/tetranucleosome/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tetranucleosome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

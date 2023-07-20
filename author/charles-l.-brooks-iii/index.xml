@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles L. Brooks III | Ding Research Group at the Tufts University</title>
+    <link>https://example.com/author/charles-l.-brooks-iii/</link>
+      <atom:link href="https://example.com/author/charles-l.-brooks-iii/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles L. Brooks III</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jun 2021 13:16:05 -0500</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Charles L. Brooks III</title>
+      <link>https://example.com/author/charles-l.-brooks-iii/</link>
+    </image>
+    
+    <item>
+      <title>Generalizing the Discrete Gibbs Sampler-Based λ-Dynamics Approach for Multisite Sampling of Many Ligands</title>
+      <link>https://example.com/publication/d_gsld/</link>
+      <pubDate>Sat, 05 Jun 2021 13:16:05 -0500</pubDate>
+      <guid>https://example.com/publication/d_gsld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated CDOCKER with GPUs, parallel simulated annealing and fast Fourier transforms</title>
+      <link>https://example.com/publication/fft_cdocker/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fft_cdocker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciphering Protein Evolution and Fitness Landscapes with Latent Space Models</title>
+      <link>https://example.com/publication/pevae/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pevae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Solver for Large Scale Multistate Bennett Acceptance Ratio Equations</title>
+      <link>https://example.com/publication/fastmbar/</link>
+      <pubDate>Mon, 28 Jan 2019 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/fastmbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampler-based λ-dynamics and Rao–Blackwell Estimator for Alchemical Free Energy Calculation</title>
+      <link>https://example.com/publication/gsld/</link>
+      <pubDate>Fri, 26 May 2017 13:16:05 -0500</pubDate>
+      <guid>https://example.com/publication/gsld/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

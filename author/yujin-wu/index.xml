@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yujin Wu | Ding Research Group at the Tufts University</title>
+    <link>https://example.com/author/yujin-wu/</link>
+      <atom:link href="https://example.com/author/yujin-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yujin Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Yujin Wu</title>
+      <link>https://example.com/author/yujin-wu/</link>
+    </image>
+    
+    <item>
+      <title>Accelerated CDOCKER with GPUs, parallel simulated annealing and fast Fourier transforms</title>
+      <link>https://example.com/publication/fft_cdocker/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fft_cdocker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

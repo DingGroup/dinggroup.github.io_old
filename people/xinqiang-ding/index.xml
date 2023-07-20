@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinqiang Ding | Ding Research Group at the Tufts University</title>
+    <link>https://example.com/people/xinqiang-ding/</link>
+      <atom:link href="https://example.com/people/xinqiang-ding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinqiang Ding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 13:08:25 -0500</lastBuildDate>
+    <image>
+      <url>https://example.com/people/xinqiang-ding/avatar_hub327ad8e5dc45966e30c234221b12515_1021459_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xinqiang Ding</title>
+      <link>https://example.com/people/xinqiang-ding/</link>
+    </image>
+    
+    <item>
+      <title>Contrasting Learning of Coarse-Grained Force Fields</title>
+      <link>https://example.com/publication/potential_contrasting/</link>
+      <pubDate>Tue, 31 May 2022 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/potential_contrasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalizing the Discrete Gibbs Sampler-Based λ-Dynamics Approach for Multisite Sampling of Many Ligands</title>
+      <link>https://example.com/publication/d_gsld/</link>
+      <pubDate>Sat, 05 Jun 2021 13:16:05 -0500</pubDate>
+      <guid>https://example.com/publication/d_gsld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBAR: A Fast and Exact Method for Binding Free Energy Computation</title>
+      <link>https://example.com/publication/deepbar/</link>
+      <pubDate>Thu, 25 Feb 2021 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/deepbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability and folding pathways of tetra-nucleosome from six-dimensional free energy surface</title>
+      <link>https://example.com/publication/tetranucleosome/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tetranucleosome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Deep Generative Models with Annealed Importance Sampling</title>
+      <link>https://example.com/publication/aiwae/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/aiwae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Absolute Free Energy with Deep Generative Models</title>
+      <link>https://example.com/publication/dgm_bar/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dgm_bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated CDOCKER with GPUs, parallel simulated annealing and fast Fourier transforms</title>
+      <link>https://example.com/publication/fft_cdocker/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fft_cdocker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deciphering Protein Evolution and Fitness Landscapes with Latent Space Models</title>
+      <link>https://example.com/publication/pevae/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pevae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Solver for Large Scale Multistate Bennett Acceptance Ratio Equations</title>
+      <link>https://example.com/publication/fastmbar/</link>
+      <pubDate>Mon, 28 Jan 2019 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/fastmbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CDOCKER and λ-dynamics for Prospective Prediction in D3R Grand Challenge 2</title>
+      <link>https://example.com/publication/d3r/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/d3r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampler-based λ-dynamics and Rao–Blackwell Estimator for Alchemical Free Energy Calculation</title>
+      <link>https://example.com/publication/gsld/</link>
+      <pubDate>Fri, 26 May 2017 13:16:05 -0500</pubDate>
+      <guid>https://example.com/publication/gsld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism of Vps4 Hexamer Function Revealed by Cryo-EM</title>
+      <link>https://example.com/publication/vps4/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/vps4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Prediction of RNA Secondary Structure by Integrating the Free Energy Model with Restraints Derived from Experimental Probing Data</title>
+      <link>https://example.com/publication/rna-lulab/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rna-lulab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

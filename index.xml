@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ding Research Group at the Tufts University</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ding Research Group at the Tufts University</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Ding Research Group at the Tufts University</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://example.com/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Ding lab is officially open in the Department of Chemistry at the Tufts University!</title>
+      <link>https://example.com/post/23-08-16-ding/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/23-08-16-ding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Drug Design</title>
+      <link>https://example.com/research/project_1/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/project_1/</guid>
+      <description>&lt;p&gt;Drug discovery is a slow and expensive process. We aim to accelerate drug discovery by developing advanced computational methods for drug design. Specifically, we focus on developing efficient and accurate methods for calculating protein-ligand binding free energy, which has important applications in drug discovery. Our approaches are based on rigorous synergy bewteen statistical mechanics and machine learning methods such as deep generative models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contrasting Learning of Coarse-Grained Force Fields</title>
+      <link>https://example.com/publication/potential_contrasting/</link>
+      <pubDate>Tue, 31 May 2022 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/potential_contrasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coarse-Grained Force Field Development</title>
+      <link>https://example.com/research/project_2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/project_2/</guid>
+      <description>&lt;p&gt;Due to the limited computing speed of existing computers,
+simulating large chemical and biological systems requires
+coarse-grained simulation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generalizing the Discrete Gibbs Sampler-Based λ-Dynamics Approach for Multisite Sampling of Many Ligands</title>
+      <link>https://example.com/publication/d_gsld/</link>
+      <pubDate>Sat, 05 Jun 2021 13:16:05 -0500</pubDate>
+      <guid>https://example.com/publication/d_gsld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBAR: A Fast and Exact Method for Binding Free Energy Computation</title>
+      <link>https://example.com/publication/deepbar/</link>
+      <pubDate>Thu, 25 Feb 2021 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/deepbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability and folding pathways of tetra-nucleosome from six-dimensional free energy surface</title>
+      <link>https://example.com/publication/tetranucleosome/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tetranucleosome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale Modeling of Biomolecular Condenstates</title>
+      <link>https://example.com/research/project_3/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/project_3/</guid>
+      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning Deep Generative Models with Annealed Importance Sampling</title>
+      <link>https://example.com/publication/aiwae/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/aiwae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Absolute Free Energy with Deep Generative Models</title>
+      <link>https://example.com/publication/dgm_bar/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dgm_bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated CDOCKER with GPUs, parallel simulated annealing and fast Fourier transforms</title>
+      <link>https://example.com/publication/fft_cdocker/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fft_cdocker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method Development Combining MD and ML</title>
+      <link>https://example.com/research/project_4/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/project_4/</guid>
+      <description>&lt;p&gt;When new problems and challenges arise and existing methods fall short,
+we develop&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deciphering Protein Evolution and Fitness Landscapes with Latent Space Models</title>
+      <link>https://example.com/publication/pevae/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pevae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Solver for Large Scale Multistate Bennett Acceptance Ratio Equations</title>
+      <link>https://example.com/publication/fastmbar/</link>
+      <pubDate>Mon, 28 Jan 2019 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/fastmbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CDOCKER and λ-dynamics for Prospective Prediction in D3R Grand Challenge 2</title>
+      <link>https://example.com/publication/d3r/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/d3r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gibbs Sampler-based λ-dynamics and Rao–Blackwell Estimator for Alchemical Free Energy Calculation</title>
+      <link>https://example.com/publication/gsld/</link>
+      <pubDate>Fri, 26 May 2017 13:16:05 -0500</pubDate>
+      <guid>https://example.com/publication/gsld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanism of Vps4 Hexamer Function Revealed by Cryo-EM</title>
+      <link>https://example.com/publication/vps4/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/vps4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Prediction of RNA Secondary Structure by Integrating the Free Energy Model with Restraints Derived from Experimental Probing Data</title>
+      <link>https://example.com/publication/rna-lulab/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rna-lulab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://example.com/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/tour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

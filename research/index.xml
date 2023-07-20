@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Interest | Ding Research Group at the Tufts University</title>
+    <link>https://example.com/research/</link>
+      <atom:link href="https://example.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Interest</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Research Interest</title>
+      <link>https://example.com/research/</link>
+    </image>
+    
+    <item>
+      <title>Computational Drug Design</title>
+      <link>https://example.com/research/project_1/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/project_1/</guid>
+      <description>&lt;p&gt;Drug discovery is a slow and expensive process. We aim to accelerate drug discovery by developing advanced computational methods for drug design. Specifically, we focus on developing efficient and accurate methods for calculating protein-ligand binding free energy, which has important applications in drug discovery. Our approaches are based on rigorous synergy bewteen statistical mechanics and machine learning methods such as deep generative models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coarse-Grained Force Field Development</title>
+      <link>https://example.com/research/project_2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/project_2/</guid>
+      <description>&lt;p&gt;Due to the limited computing speed of existing computers,
+simulating large chemical and biological systems requires
+coarse-grained simulation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiscale Modeling of Biomolecular Condenstates</title>
+      <link>https://example.com/research/project_3/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/project_3/</guid>
+      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Method Development Combining MD and ML</title>
+      <link>https://example.com/research/project_4/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research/project_4/</guid>
+      <description>&lt;p&gt;When new problems and challenges arise and existing methods fall short,
+we develop&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

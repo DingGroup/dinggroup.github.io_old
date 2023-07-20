@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin Zhang | Ding Research Group at the Tufts University</title>
+    <link>https://example.com/author/bin-zhang/</link>
+      <atom:link href="https://example.com/author/bin-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 13:08:25 -0500</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Bin Zhang</title>
+      <link>https://example.com/author/bin-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Contrasting Learning of Coarse-Grained Force Fields</title>
+      <link>https://example.com/publication/potential_contrasting/</link>
+      <pubDate>Tue, 31 May 2022 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/potential_contrasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBAR: A Fast and Exact Method for Binding Free Energy Computation</title>
+      <link>https://example.com/publication/deepbar/</link>
+      <pubDate>Thu, 25 Feb 2021 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/deepbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability and folding pathways of tetra-nucleosome from six-dimensional free energy surface</title>
+      <link>https://example.com/publication/tetranucleosome/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tetranucleosome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Absolute Free Energy with Deep Generative Models</title>
+      <link>https://example.com/publication/dgm_bar/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dgm_bar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
