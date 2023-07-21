@@ -28,6 +28,14 @@
     </item>
     
     <item>
+      <title>The Ding lab will be officially open in the Department of Chemistry at the Tufts University on August 16th!</title>
+      <link>https://example.com/post/23-08-16-ding/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/23-08-16-ding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computational Drug Design</title>
       <link>https://example.com/research/project_1/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -84,7 +92,7 @@ coarse-grained simulation.&lt;/p&gt;
       <link>https://example.com/research/project_3/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/research/project_3/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;</description>
+      <description>&lt;p&gt;More is needed.&lt;/p&gt;</description>
     </item>
     
     <item>
