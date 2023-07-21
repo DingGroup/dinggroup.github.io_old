@@ -14,14 +14,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/23-08-16-ding/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/research/project_1/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -239,6 +231,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/people/graduate-student/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/opening/</loc>
