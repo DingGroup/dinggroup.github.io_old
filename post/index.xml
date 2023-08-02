@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News | Ding Research Group at the Tufts University</title>
+    <title>News | Ding Group at the Tufts University</title>
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>The Ding lab will be officially open in the Department of Chemistry at the Tufts University on August 16th!</title>
+      <title>The Ding lab will officially open in the Department of Chemistry at Tufts on August 16th!</title>
       <link>https://example.com/post/23-07-16-ding/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/23-07-16-ding/</guid>

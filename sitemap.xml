@@ -22,11 +22,11 @@
     <lastmod>2023-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/research/project_1/</loc>
+    <loc>https://example.com/research_old/project_1/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/research/</loc>
+    <loc>https://example.com/research_old/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -58,7 +58,7 @@
     <lastmod>2022-05-31T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/research/project_2/</loc>
+    <loc>https://example.com/research_old/project_2/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -94,7 +94,7 @@
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/research/project_3/</loc>
+    <loc>https://example.com/research_old/project_3/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -126,7 +126,7 @@
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/research/project_4/</loc>
+    <loc>https://example.com/research_old/project_4/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -245,6 +245,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/people/postdoc/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/research/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>

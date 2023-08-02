@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Interest | Ding Group at the Tufts University</title>
+    <link>https://example.com/research_old/</link>
+      <atom:link href="https://example.com/research_old/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Interest</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Research Interest</title>
+      <link>https://example.com/research_old/</link>
+    </image>
+    
+    <item>
+      <title>Computational Drug Design</title>
+      <link>https://example.com/research_old/project_1/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research_old/project_1/</guid>
+      <description>&lt;p&gt;Drug discovery is a slow and expensive process. We aim to accelerate drug discovery by developing advanced computational methods. Specifically, we focus on developing efficient and accurate methods for computing protein-ligand binding free energy. Our approaches are based on rigorous synergy between statistical mechanics and machine learning methods. Recent advances in machine learning, especially deep probabilistic models, present great opportunities for developing revolutionary methods for drug design. To learn more about our efforts in this area, please read our recent publications:&lt;a href=&#34;https://doi.org/10.1021/acs.jpclett.1c00189&#34;&gt;DeepBAR&lt;/a&gt; &lt;b&gt;DeepBAR&lt;/b&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coarse-Grained Force Field Development</title>
+      <link>https://example.com/research_old/project_2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research_old/project_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale Modeling of Biomolecular Condenstates</title>
+      <link>https://example.com/research_old/project_3/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research_old/project_3/</guid>
+      <description>&lt;p&gt;More is needed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Method Development Combining MD and ML</title>
+      <link>https://example.com/research_old/project_4/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/research_old/project_4/</guid>
+      <description>&lt;p&gt;When new problems and challenges arise and existing methods fall short,
+we develop&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
