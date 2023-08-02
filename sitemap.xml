@@ -54,7 +54,7 @@
     <lastmod>2022-05-31T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/xinqiang-ding/</loc>
+    <loc>https://example.com/author/xinqiang-ding/</loc>
     <lastmod>2022-05-31T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -254,6 +254,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tour/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/people/xinqiang-ding/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
