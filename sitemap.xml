@@ -238,6 +238,9 @@
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/software/fastmbar/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/people/graduate-student/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -247,7 +250,13 @@
     <loc>https://example.com/people/postdoc/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/software/pc/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/research/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/software/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
