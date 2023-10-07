@@ -28,6 +28,15 @@
     </item>
     
     <item>
+      <title>Welcome Khoa to the group!</title>
+      <link>https://example.com/post/23-10-7/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/23-10-7/</guid>
+      <description>&lt;p&gt;Khoa is a freshman at Tufts! He is interested in both chemistry and computer science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Ding lab will officially open in the Department of Chemistry at Tufts on August 16th!</title>
       <link>https://example.com/post/23-07-16-ding/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
