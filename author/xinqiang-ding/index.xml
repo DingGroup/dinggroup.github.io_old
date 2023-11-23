@@ -5,12 +5,28 @@
     <link>https://example.com/author/xinqiang-ding/</link>
       <atom:link href="https://example.com/author/xinqiang-ding/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinqiang Ding</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Sep 2023 13:08:25 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 13:08:25 -0500</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
       <title>Xinqiang Ding</title>
       <link>https://example.com/author/xinqiang-ding/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Multistate Bennett Acceptance Ratio Methods</title>
+      <link>https://example.com/publication/bayesmbar/</link>
+      <pubDate>Mon, 01 Jan 2024 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/bayesmbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferable Implicit Solvation via Contrastive Learning of Graph Neural Networks</title>
+      <link>https://example.com/publication/pc_implicitsolvent/</link>
+      <pubDate>Thu, 16 Nov 2023 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/pc_implicitsolvent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OpenABC enables flexible, simplified, and efficient GPU accelerated simulations of biomolecular condensates</title>

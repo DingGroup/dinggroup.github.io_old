@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Airas | Ding Group at the Tufts University</title>
+    <link>https://example.com/author/justin-airas/</link>
+      <atom:link href="https://example.com/author/justin-airas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Justin Airas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Nov 2023 13:08:25 -0500</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
+      <title>Justin Airas</title>
+      <link>https://example.com/author/justin-airas/</link>
+    </image>
+    
+    <item>
+      <title>Transferable Implicit Solvation via Contrastive Learning of Graph Neural Networks</title>
+      <link>https://example.com/publication/pc_implicitsolvent/</link>
+      <pubDate>Thu, 16 Nov 2023 13:08:25 -0500</pubDate>
+      <guid>https://example.com/publication/pc_implicitsolvent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
