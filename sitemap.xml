@@ -38,6 +38,14 @@
     <lastmod>2024-01-01T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/23-12-27/</loc>
+    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -75,10 +83,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/23-11-4-bayesmbar/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -302,6 +306,9 @@
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/people/graduate-student/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/software/fastmbar/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -324,6 +331,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/software/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/people/graduate-student/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
