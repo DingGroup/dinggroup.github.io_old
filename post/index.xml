@@ -5,12 +5,20 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hue50f234c5e5b76ca906de0f85186def5_346707_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Welcome Ryan Cooley to the group as an undergraduate researcher!</title>
+      <link>https://example.com/post/24-01-15/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-01-15/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to Christine Wong and Sophia Gerogiannis!</title>
