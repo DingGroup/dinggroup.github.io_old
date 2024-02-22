@@ -5,12 +5,21 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Our paper on BayesMBAR is published on J. Chem. Theory Comput.</title>
+      <link>https://example.com/post/24-02-22-bayesmbar/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-02-22-bayesmbar/</guid>
+      <description>&lt;p&gt;Checkout the final version of the paper at &lt;a href=&#34;https://pubs.acs.org/doi/10.1021/acs.jctc.3c01212&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Bayesian Multistate Bennett Acceptance Ratio Methods&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome Ryan Cooley to the group as an undergraduate researcher!</title>

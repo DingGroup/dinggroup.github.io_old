@@ -39,7 +39,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/24-02-22-bayesmbar/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/24-01-15/</loc>
