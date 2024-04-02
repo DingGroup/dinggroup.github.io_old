@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Khoa Nguyen | Ding Group at the Tufts University</title>
+    <title>Ryan Cooley | Ding Group at the Tufts University</title>
     <link>https://example.com/people/graduate-student/</link>
       <atom:link href="https://example.com/people/graduate-student/index.xml" rel="self" type="application/rss+xml" />
-    <description>Khoa Nguyen</description>
+    <description>Ryan Cooley</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/people/graduate-student/avatar_hu97d28659285617893ee55d5a2ab318e9_249104_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Khoa Nguyen</title>
+      <url>https://example.com/people/graduate-student/avatar_hu9c34fb5d32f0984c506bb9f5dfe69cfd_1298194_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ryan Cooley</title>
       <link>https://example.com/people/graduate-student/</link>
     </image>
     
+  </channel>
+</rss>
+
   </channel>
 </rss>

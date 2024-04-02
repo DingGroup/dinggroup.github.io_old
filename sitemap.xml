@@ -14,32 +14,44 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
-    <lastmod>2024-02-22T13:08:25-05:00</lastmod>
+    <loc>https://example.com/publication-type/3/</loc>
+    <lastmod>2024-04-03T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/authors/</loc>
+    <lastmod>2024-04-03T13:08:25-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/pc_experiments/</loc>
+    <lastmod>2024-04-03T13:08:25-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2024-04-03T13:08:25-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2024-04-03T13:08:25-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/xinqiang-ding/</loc>
+    <lastmod>2024-04-03T13:08:25-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/24-04-02-pc-experiments/</loc>
+    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2024-02-22T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/bayesmbar/</loc>
     <lastmod>2024-02-22T13:08:25-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2024-02-22T13:08:25-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2024-02-22T13:08:25-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/author/xinqiang-ding/</loc>
-    <lastmod>2024-02-22T13:08:25-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/24-02-22-bayesmbar/</loc>
@@ -72,10 +84,6 @@
   </url><url>
     <loc>https://example.com/author/ryan-hayes/</loc>
     <lastmod>2023-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
-    <lastmod>2023-11-16T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/bin-zhang/</loc>
