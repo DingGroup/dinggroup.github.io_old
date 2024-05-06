@@ -319,6 +319,9 @@
     <loc>https://example.com/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/software/bayesmbar/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>

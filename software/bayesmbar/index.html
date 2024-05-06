@@ -279,12 +279,12 @@
 
   
 
-<meta name="description" content="Dr. Charles W. Fotis A37, AG39 Assistant Professor of Chemistry" />
+<meta name="description" content="BayesMBAR is a Bayesian generalization of the multistate Bennett acceptance ratio (MBAR) method for estimating free energy differences between thermodynamic states. By integration of configurations sampled from thermodynamic states with a prior distribution, BayesMBAR computes a posterior distribution of free energies, from which free energy estimations and their associated uncertainties are obtained. Compared to MBAR, BayesMBAR provides more accurate uncertainty estimates and can incorporate prior knowledge into the estimation to improve the accuracy of the free energy estimates." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://example.com/author/jonah-vilseck/" />
-<link rel="canonical" href="https://example.com/author/jonah-vilseck/" />
+<link rel="alternate" hreflang="en-us" href="https://example.com/software/bayesmbar/" />
+<link rel="canonical" href="https://example.com/software/bayesmbar/" />
 
 
 
@@ -307,40 +307,83 @@
 
 
   
-  
 
 
 
 
 
 
-<meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_512x512_fill_lanczos_center_3.png" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://example.com/software/bayesmbar/featured.png" />
 <meta property="og:site_name" content="Ding Group at the Tufts University" />
-<meta property="og:url" content="https://example.com/author/jonah-vilseck/" />
-<meta property="og:title" content="Jonah Vilseck | Ding Group at the Tufts University" />
-<meta property="og:description" content="Dr. Charles W. Fotis A37, AG39 Assistant Professor of Chemistry" /><meta property="og:image" content="https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
-
-  
-    <meta property="og:updated_time" content="2023-12-21T00:00:00&#43;00:00" />
-  
-
-
-
-
-
-
-
-
-
+<meta property="og:url" content="https://example.com/software/bayesmbar/" />
+<meta property="og:title" content="BayesMBAR | Ding Group at the Tufts University" />
+<meta property="og:description" content="BayesMBAR is a Bayesian generalization of the multistate Bennett acceptance ratio (MBAR) method for estimating free energy differences between thermodynamic states. By integration of configurations sampled from thermodynamic states with a prior distribution, BayesMBAR computes a posterior distribution of free energies, from which free energy estimations and their associated uncertainties are obtained. Compared to MBAR, BayesMBAR provides more accurate uncertainty estimates and can incorporate prior knowledge into the estimation to improve the accuracy of the free energy estimates." /><meta property="og:image" content="https://example.com/software/bayesmbar/featured.png" /><meta property="og:locale" content="en-us" />
 
   
   
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/software/bayesmbar/"
+  },
+  "headline": "BayesMBAR",
+  
+  "image": [
+    "https://example.com/software/bayesmbar/featured.png"
+  ],
+  
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Xinqiang Ding"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ding Group at the Tufts University",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "BayesMBAR is a Bayesian generalization of the multistate Bennett acceptance ratio (MBAR) method for estimating free energy differences between thermodynamic states. By integration of configurations sampled from thermodynamic states with a prior distribution, BayesMBAR computes a posterior distribution of free energies, from which free energy estimations and their associated uncertainties are obtained. Compared to MBAR, BayesMBAR provides more accurate uncertainty estimates and can incorporate prior knowledge into the estimation to improve the accuracy of the free energy estimates."
+}
+</script>
+
   
 
   
+
+
+
+
   
-    <link rel="alternate" href="/author/jonah-vilseck/index.xml" type="application/rss+xml" title="Ding Group at the Tufts University" />
+  
+  
+
+  
   
 
   
@@ -348,7 +391,7 @@
 
     
   
-  <title>Jonah Vilseck | Ding Group at the Tufts University</title>
+  <title>BayesMBAR | Ding Group at the Tufts University</title>
 
   
   
@@ -368,7 +411,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="240c35bafb8d3f8feaa616f1633d9221" >
 
   
   
@@ -601,7 +644,7 @@
 	  
           <li class="nav-item">
 	    
-            <a class="nav-link " href="/software"><span>Software</span></a>
+            <a class="nav-link active" href="/software"><span><b><u>Software</u></b></span></a>
 	    	   	    
           </li>
 	  
@@ -746,24 +789,403 @@
     
     
 
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>BayesMBAR</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
     
+    
+      
+    
+    Jan 1, 0001
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1>Jonah Vilseck</h1>
+
+<div class="btn-links mb-3">
+  
+  <a class="btn btn-outline-primary my-1" href="https://bayesmbar.readthedocs.io/en/latest/" target="_blank" rel="noopener">Go to Project Site</a>
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1021/acs.jctc.3c01212" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/DingGroup/BayesMBAR" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Star</a>
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
-    
-    
-    
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 675px; max-height: 573px;">
+  <div style="position: relative">
+    <img src="/software/bayesmbar/featured_hu8c99138fcc12321975b6688616cba8b6_21414_720x2500_fit_q75_h2_lanczos_3.webp" width="675" height="573" alt="" class="featured-image">
+    <span class="article-header-caption">Photo by rawpixel on Unsplash</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+    </div>
 
     
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fsoftware%2Fbayesmbar%2F&amp;text=BayesMBAR" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fsoftware%2Fbayesmbar%2F&amp;t=BayesMBAR" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=BayesMBAR&amp;body=https%3A%2F%2Fexample.com%2Fsoftware%2Fbayesmbar%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fsoftware%2Fbayesmbar%2F&amp;title=BayesMBAR" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=BayesMBAR%20https%3A%2F%2Fexample.com%2Fsoftware%2Fbayesmbar%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fsoftware%2Fbayesmbar%2F&amp;title=BayesMBAR" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/people/xinqiang-ding/"><img class="avatar mr-3 avatar-square" src="/people/xinqiang-ding/avatar_hu0e393d8e6faf79de60b7414142e36c5d_28616_270x270_fill_q75_lanczos_center.jpg" alt="Xinqiang Ding"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/people/xinqiang-ding/">Xinqiang Ding</a></h5>
+      <h6 class="card-subtitle">Dr. Charles W. Fotis A37, AG39 Assistant Professor of Chemistry</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:Xinqiang.Ding@tufts.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=_Xon_PMAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/xqding" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/xinqiang_ding" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
   </div>
 
   <div class="page-footer">
