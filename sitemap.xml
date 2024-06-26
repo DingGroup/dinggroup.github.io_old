@@ -14,6 +14,14 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/24-06-15/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication-type/3/</loc>
     <lastmod>2024-04-03T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -36,10 +44,6 @@
   </url><url>
     <loc>https://example.com/author/xinqiang-ding/</loc>
     <lastmod>2024-04-03T13:08:25-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2024-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/24-04-02-pc-experiments/</loc>
@@ -334,7 +338,13 @@
     <loc>https://example.com/people/graduate-student/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/people/summer-intern/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/people/graduate-student/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/people/postdoc/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/opening/</loc>
@@ -350,6 +360,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/people/graduate-student/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/people/summer-intern/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/software/</loc>

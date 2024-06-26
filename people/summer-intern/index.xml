@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saki Doi | Ding Group at the Tufts University</title>
+    <link>https://example.com/people/summer-intern/</link>
+      <atom:link href="https://example.com/people/summer-intern/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saki Doi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/people/summer-intern/avatar_hu4c4fa84fc52f85509a5a8caa86f451bd_513955_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Saki Doi</title>
+      <link>https://example.com/people/summer-intern/</link>
+    </image>
+    
+  </channel>
+</rss>
