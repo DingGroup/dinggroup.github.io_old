@@ -5,12 +5,21 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Our paper on using potential contrasting to optimize force fields with experimental data is published on J. Phys. Chem. B.</title>
+      <link>https://example.com/post/24-07-5/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-07-5/</guid>
+      <description>&lt;p&gt;Checkout the final version &lt;a href=&#34;https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c02147&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Optimizing Force Fields with Experimental Data Using Ensemble Reweighting and Potential Contrasting&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Kun Yue, John Drohan, and Saki Doi!</title>

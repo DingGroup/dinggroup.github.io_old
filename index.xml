@@ -28,20 +28,29 @@
     </item>
     
     <item>
-      <title>Welcome to Kun Yue, John Drohan, and Saki Doi!</title>
-      <link>https://example.com/post/24-06-15/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/24-06-15/</guid>
-      <description>&lt;p&gt;Kun joins the lab as the lab&amp;rsquo;s first postdoc. Both John and Saki join the lab as summer interns. Welcome on board!&lt;/p&gt;
+      <title>Our paper on using potential contrasting to optimize force fields with experimental data is published on J. Phys. Chem. B.</title>
+      <link>https://example.com/post/24-07-5/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-07-5/</guid>
+      <description>&lt;p&gt;Checkout the final version &lt;a href=&#34;https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c02147&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Optimizing Force Fields with Experimental Data Using Ensemble Reweighting and Potential Contrasting&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing Force Fields with Experimental Data Using Ensemble Reweighting and Potential Contrasting</title>
       <link>https://example.com/publication/pc_experiments/</link>
-      <pubDate>Wed, 03 Apr 2024 13:08:25 -0500</pubDate>
+      <pubDate>Fri, 05 Jul 2024 13:08:25 -0500</pubDate>
       <guid>https://example.com/publication/pc_experiments/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Kun Yue, John Drohan, and Saki Doi!</title>
+      <link>https://example.com/post/24-06-15/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-06-15/</guid>
+      <description>&lt;p&gt;Kun joins the lab as the lab&amp;rsquo;s first postdoc. Both John and Saki join the lab as summer interns. Welcome on board!&lt;/p&gt;
+</description>
     </item>
     
     <item>
