@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Xinqiang gave a talk on BayesMBAR at the 2024 CHARMM Developer&#39;s Meeting in Baltimore.</title>
+      <link>https://example.com/post/24-07-20/</link>
+      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-07-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduce coupled BayesMBAR, a principled method for computing free energy on perturbation graphs with cycles!</title>
-      <link>https://example.com/post/24-07-22-cbayesmbar/</link>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/24-07-22-cbayesmbar/</guid>
+      <link>https://example.com/post/24-07-19-cbayesmbar/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-07-19-cbayesmbar/</guid>
       <description>&lt;p&gt;Checkout the preprint of the manuscript titled &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/669c1a8e01103d79c5b4fa60&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Principled Approach for Computing Free Energy on Perturbation Graphs with Cycles&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

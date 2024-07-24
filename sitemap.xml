@@ -14,14 +14,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/24-07-22-cbayesmbar/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication-type/3/</loc>
     <lastmod>2024-07-21T13:08:25-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -48,6 +40,18 @@
   </url><url>
     <loc>https://example.com/author/xinqiang-ding/</loc>
     <lastmod>2024-07-21T13:08:25-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2024-07-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/24-07-20/</loc>
+    <lastmod>2024-07-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/24-07-19-cbayesmbar/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/24-07-5/</loc>
