@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kun Yue | Ding Group at the Tufts University</title>
+    <link>https://example.com/author/kun-yue/</link>
+      <atom:link href="https://example.com/author/kun-yue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kun Yue</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/kun-yue/avatar_hu59660f9634740cf32ae544c7b7d53fbe_5786945_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kun Yue</title>
+      <link>https://example.com/author/kun-yue/</link>
+    </image>
+    
+  </channel>
+</rss>

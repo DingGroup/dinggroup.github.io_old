@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christine Wong | Ding Group at the Tufts University</title>
+    <link>https://example.com/author/christine-wong/</link>
+      <atom:link href="https://example.com/author/christine-wong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christine Wong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/christine-wong/avatar_hu0c88a6444bcd819ff54270e749d117f6_74831_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Christine Wong</title>
+      <link>https://example.com/author/christine-wong/</link>
+    </image>
+    
+  </channel>
+</rss>

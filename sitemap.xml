@@ -349,22 +349,22 @@
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/graduate-student/</loc>
+    <loc>https://example.com/author/christine-wong/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/software/fastmbar/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/graduate-student/</loc>
+    <loc>https://example.com/author/graduate-student/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/summer-intern/</loc>
+    <loc>https://example.com/author/john-drohan/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/graduate-student/</loc>
+    <loc>https://example.com/author/khoa-nguyen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/postdoc/</loc>
+    <loc>https://example.com/author/kun-yue/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/opening/</loc>
@@ -382,13 +382,13 @@
     <loc>https://example.com/people/graduate-student/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/summer-intern/</loc>
+    <loc>https://example.com/author/saki-doi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/software/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/people/graduate-student/</loc>
+    <loc>https://example.com/author/sophia-gerogiannis/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>

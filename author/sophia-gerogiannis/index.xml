@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophia Gerogiannis | Ding Group at the Tufts University</title>
+    <link>https://example.com/author/sophia-gerogiannis/</link>
+      <atom:link href="https://example.com/author/sophia-gerogiannis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophia Gerogiannis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/sophia-gerogiannis/avatar_hu97d4403e2c0a532fccd534c1c59896f9_1247896_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sophia Gerogiannis</title>
+      <link>https://example.com/author/sophia-gerogiannis/</link>
+    </image>
+    
+  </channel>
+</rss>
