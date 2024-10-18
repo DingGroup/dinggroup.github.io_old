@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anjali Dhar | Ding Group at the Tufts University</title>
+    <link>https://example.com/author/anjali-dhar/</link>
+      <atom:link href="https://example.com/author/anjali-dhar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anjali Dhar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/anjali-dhar/avatar_hu68bbc7f63406e949278170b3c6f28324_382748_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Anjali Dhar</title>
+      <link>https://example.com/author/anjali-dhar/</link>
+    </image>
+    
+  </channel>
+</rss>

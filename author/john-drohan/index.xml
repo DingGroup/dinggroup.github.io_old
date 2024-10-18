@@ -5,16 +5,11 @@
     <link>https://example.com/author/john-drohan/</link>
       <atom:link href="https://example.com/author/john-drohan/index.xml" rel="self" type="application/rss+xml" />
     <description>John Drohan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 13:08:25 -0500</lastBuildDate>
     <image>
-      <url>https://example.com/author/john-drohan/avatar_hue7028cf38ad81678bb058625678470c9_1312555_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_512x512_fill_lanczos_center_3.png</url>
       <title>John Drohan</title>
       <link>https://example.com/author/john-drohan/</link>
-    </image>
-    
-  </channel>
-</rss>
-link>
     </image>
     
     <item>

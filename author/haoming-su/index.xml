@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haoming Su | Ding Group at the Tufts University</title>
+    <link>https://example.com/author/haoming-su/</link>
+      <atom:link href="https://example.com/author/haoming-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haoming Su</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/haoming-su/avatar_hud14e4ae7897803174cacbb9aaebb8364_159662_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Haoming Su</title>
+      <link>https://example.com/author/haoming-su/</link>
+    </image>
+    
+  </channel>
+</rss>
