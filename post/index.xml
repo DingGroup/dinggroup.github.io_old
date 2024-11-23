@@ -5,12 +5,21 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>CBayesMBAR is published on J. Chem. Theory Comput.!</title>
+      <link>https://example.com/post/24-11-23/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/24-11-23/</guid>
+      <description>&lt;p&gt;Our paper on &lt;a href=&#34;https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00948&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CBayesMBAR&lt;/a&gt; is published on JCTC! It provides a principled Bayesian approach to compute free energy differences and uncertainties on perturbation graphs with cycles.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Anjali, Haoming, and John!</title>
