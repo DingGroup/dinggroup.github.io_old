@@ -5,7 +5,7 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 13:08:25 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 13:08:25 -0500</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu9244895af7335cf6bfd3349da9d875a5_415013_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Principled Approach for Computing Free Energy on Perturbation Graphs with Cycles</title>
+      <title>Bayesian Approach for Computing Free Energy on Perturbation Graphs with Cycles</title>
       <link>https://example.com/publication/cbayesmbar/</link>
-      <pubDate>Sun, 21 Jul 2024 13:08:25 -0500</pubDate>
+      <pubDate>Tue, 19 Nov 2024 13:08:25 -0500</pubDate>
       <guid>https://example.com/publication/cbayesmbar/</guid>
       <description></description>
     </item>
